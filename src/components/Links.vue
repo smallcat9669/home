@@ -50,6 +50,7 @@ import { Pagination, Mousewheel } from "swiper";
 import siteLinks from "@/assets/siteLinks.json";
 import "swiper/scss";
 import "swiper/scss/pagination";
+import { CalendarChat20Filled } from "@vicons/utils";
 
 const store = mainStore();
 
