@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://su.vellow.fun/"
+    "link": "http://blog.su.vellow.fun/"
   },
   {
     "icon": "Cloud",
@@ -12,12 +12,12 @@
   {
     "icon": "Rocketchat",
     "name": "聊天室",
-    "link": "http://su.vellow.fun/chat/"
+    "link": "http://chat.su.vellow.fun/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "http://su.vellow.fun/"
+    "name": "音乐",
+    "link": "http://music.su.vellow.fun/"
   },
   {
     "icon": "Book",
@@ -25,8 +25,8 @@
     "link": "http://su.vellow.fun/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
+    "icon": "Compass",
+    "name": "起始页",
     "link": "http://su.vellow.fun/"
   },
   {
